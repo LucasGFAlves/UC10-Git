@@ -1,3 +1,5 @@
 # UC10-Git
 
-integrantes do projeto.
+<h1>Integrantes do projeto:</h1>
+<h2>Lucas Alves</h2>
+
